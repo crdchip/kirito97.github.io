@@ -1,6 +1,6 @@
 {
-    "name": "camera_flutter_web_test",
-    "short_name": "camera_flutter_web_test",
+    "name": "tbs_logistics_tms",
+    "short_name": "tbs_logistics_tms",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
